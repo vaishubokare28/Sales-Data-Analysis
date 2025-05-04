@@ -36,16 +36,7 @@ This project delivers a comprehensive, end-to-end analysis of **Amazon-like e-co
 * **NumPy** – for numerical operations
 * **Matplotlib & Seaborn** – for data visualization
 * **Jupyter Notebook** – for an interactive data analysis workflow
----
-
-## 📊 Key Insights
-
-* 💵 **Average Sales per Transaction**: `$1,187`
-* 📈 **Average Profit Margin**: `$413`
-* 📦 **Most Products Sold**: Between `3–8 units`
-* 💲 **Price Range**: `$5.16` to `$499.91`
-* 🔻 **Average Discount**: \~15%
-
+  
 ---
 ## 📈 Exploratory Data Analysis (EDA)
 
