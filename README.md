@@ -38,10 +38,6 @@ The primary goals of this sales data analysis project are to:
 
 ---
 
-Let me know if you want a version tailored for presentation slides or a business proposal.
-
----
-
 ## 🧰 Tools & Libraries Used
 
 * **Python 3**
